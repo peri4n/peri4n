@@ -1,4 +1,4 @@
-Hi 👋 My name is Fabian
+Hi, my name is Fabian
 =======================
 
 Senior Software Engineer
